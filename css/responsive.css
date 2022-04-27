@@ -1,0 +1,520 @@
+@media (max-width:1199px){
+  .text h1 {
+  	font-size: 60px;
+  }
+.service {
+	background-color: #1f425d;
+	padding: 11px 0px;
+	height: 825px;
+}
+.Company {
+	padding: 50px 0px;
+}
+.single-item {
+	padding: 55px 0px;
+}
+.quote {
+	padding: 0px 0px;
+}
+.textleft_2 {
+	font-size: 135px;
+}
+.quote-title h3 {
+	font-size: 50px;
+	line-height: 187%;
+}
+.text p {
+	margin-top: 22px;
+	margin-bottom: 44px;
+}
+.textleft {
+	font-size: 135px;
+}
+.section-title h2 {
+	font-size: 40px;
+	line-height: 191%;
+}
+.about-info {
+	padding: 14px;
+	margin-top: -13px;
+}
+.signature {
+	margin-top: -37px;
+	width: 175px;
+}
+.service {
+	background-color: #1f425d;
+	padding: 5px 0px;
+	height: 835px;
+}
+.team {
+	padding: 14px 0px;
+}
+.team-member {
+	padding: 13px 0px;
+}
+.price {
+	padding: 20px 0px;
+}
+}
+@media (max-width:991px){
+  .number h1 {
+  	font-size: 175px;
+  }
+  .cta-content h1 {
+  	font-size: 42px;
+  }
+  .team-member img {
+  	width: 100%;
+  	height: 400px;
+  }
+  .textleft {
+	font-size: 121px;
+}
+.section-title h2 {
+	font-size: 46px;
+}
+.signature {
+	margin-top: -18px;
+	width: 185px;
+}
+.content{
+  text-align: center;
+}
+.service {
+	background-color: #1f425d;
+	padding: 1px 0px;
+	height: 815px;
+}
+.single-item {
+	padding: 35px 0px;
+}
+.team {
+	padding: 15px 0px;
+}
+.team-member {
+	padding: 13px 0px;
+}
+.price {
+	padding: 20px 0px;
+}
+.footer {
+	background-color: #1f425d;
+	padding: 37px 0px 17px 0px;
+}
+.news {
+	padding: 14px 0px;
+}
+}
+@media (max-width:768px){
+  .text h1 {
+	font-size: 50px;
+}
+.news {
+	padding: 10px 0px;
+}
+.footer {
+	background-color: #1f425d;
+	padding: 21px 0px 20px 0px;
+}
+.text p {
+	font-size: 16px;
+}
+.text a {
+	padding: 12px 18px;
+}
+.textleft_1 {
+	font-size: 125px;
+}
+.service {
+	padding: 15px 0px;
+	height: ;
+}
+.single-item {
+	padding: 30px 0px;
+}
+.team {
+	padding: 5px 0px;
+}
+.team-member {
+	padding: 15px 0px;
+}
+.price {
+	padding: 10px 0px;
+}
+.price-bar {
+	padding: 30px 30px;
+}
+.price-bar-last {
+	padding: 30px 30px;
+}
+.brand {
+	padding: 24px 0px;
+}
+  .number h1 {
+  	font-size: 177px;
+  }
+  .number2 h5 {
+	font-size: 20px;
+}
+.cta-content h1 {
+	font-size: 50px;
+}
+.contract {
+	padding: 47px 0px;
+}
+
+}
+@media (max-width:576px){
+  .header-1 {
+    top: -8px;
+}
+.service {
+	padding: 4px 0px;
+	height: 740px;
+}
+.team {
+	padding: 10px 0px;
+}
+.team-member {
+	padding: 10px 0px;
+}
+.price {
+	padding: 20px 0px;
+}
+.news {
+	padding: 8px 0px;
+}
+  .number h1 {
+  	font-size: 87px;
+  }
+.card-body {
+	height: 280px;
+}
+.section-title h3 {
+	font-size: 40px;
+}
+.single-item {
+	padding: 44px 0px;
+}
+.textleft_2 {
+	font-size: 108px;
+}
+.quote-title h3 {
+	font-size: 40px;
+}
+.textleft {
+	font-size: 111px;
+}
+.section-title span {
+	line-height: 4;
+}
+.quote-title span {
+	line-height: 3;
+}
+.section-title h2 {
+	font-size: 34px;
+}
+.content-icon h2 {
+	font-size: 40px;
+}
+.text h1 {
+	font-size: 42px;
+}
+.textleft_1 {
+	font-size: 78px;
+}
+.theme-btn2 {
+padding: 20px 12px;
+}
+.theme-btn3 {
+padding: 20px 20px;
+}
+.quote-data h4 {
+	font-size: 19px;
+}
+.quote-icon {
+	text-align: center;
+}
+.quote-heading {
+	text-align: center;
+}
+.cta-content h1 {
+	font-size: 26px;
+}
+.footer-content {
+	padding: 14px 20px;
+}
+.footer {
+	background-color: #1f425d;
+	padding: 15px 0px 20px 0px;
+}
+.brand-logo {
+	height: 60px;
+	line-height: 55px;
+	margin-top: 30px;
+}
+.brand {
+	padding: 20px 0px;
+}
+}
+@media (max-width:375px){
+  .number h1 {
+  	font-size: 65px;
+  }
+  .single-quote {
+	padding: 14px 0px;
+}
+.signature {
+	margin-top: -30px;
+	/* width: 185px; */
+	padding: 0px 10px 0px 69px;
+}
+  .service {
+  	height: 730px;
+  }
+  .signature {
+	padding: 5px 0px 0px 70px;
+}
+.news {
+	padding: 16px 0px;
+}
+.single-item {
+	padding: 33px 0px;
+}
+.team-member {
+	padding: 8px 0px;
+}
+.team {
+	padding: 20px 0px;
+}
+  .textleft {
+	font-size: 106px;
+}
+.section-title span {
+	line-height: 3;
+}
+.section-title h2 {
+	font-size: 26px;
+}
+.company_ceo_details {
+	padding: 13px 0px;
+	height: 130px;
+}
+.service {
+	padding: 3px 0px;
+}
+.section-title h3 {
+	font-size: 40px;
+}
+.section-title span {
+	font-size: 14px;
+	line-height: 5;
+}
+.textleft_2 {
+	font-size: 94px;
+}
+.quote-title h3 {
+	font-size: 34px;
+}
+.single-quote {
+	padding: 10px 0px;
+}
+.theme-btn1 {
+	margin-top: 25px;
+	padding: 10px 0px;
+}
+.theme-btn2 {
+padding: 14px 10px;
+}
+.textleft_1 {
+	font-size: 70px;
+}
+.pack-feature2 span {
+	color: #fff;
+	font-size: 16px;
+}
+.pack-price3 h2 span {
+	font-size: 36px;
+}
+.theme-btn3 {
+	padding: 14px 10px;
+}
+.price {
+	padding: 13px 0px;
+}
+.pack-name1 h3 {
+	font-size: 20px;
+}
+
+.pack-name h3 {
+	font-size: 22px;
+}
+.pack-feature span {
+	font-size: 16px;
+}
+.quote-data h4 {
+	font-size: 19px;
+}
+.quote-icon {
+	text-align: center;
+}
+.quote-heading {
+	text-align: center;
+}
+.Company {
+	padding: 17px 0px;
+}
+.textleft {
+	font-size: 85px;
+}
+.ceo-info h5 {
+	font-size: 16px;
+}
+.brand {
+	padding: 30px 0px;
+}
+}
+@media (max-width:320px){
+  .number h1 {
+  	font-size: 60px;
+  }
+  .number2 h5 {
+	font-size: 13px;
+}
+.textleft {
+	font-size: 82px;
+}
+.section-title span {
+	font-size: 8px;
+	line-height: 7;
+}
+.section-title h2 {
+	font-size: 36px;
+}
+.textleft_1 {
+	font-size: 66px;
+}
+.section-title h3 {
+	font-size: 30px;
+}
+.section-title span {
+	font-size: 14px;
+	line-height: 4;
+}
+.single-item {
+	padding: 50px 0px;
+}
+.section-title h2 {
+	font-size: 24px;
+	line-height: 1;
+}
+.textleft_2 {
+	font-size: 103px;
+}
+.quote-title h3 {
+	font-size: 37px;
+}
+.quote-title span {
+	line-height: 4;
+}
+.quote-title p {
+	font-size: 17px;
+}
+.quote-icon {
+	text-align: center;
+}
+.quote-heading {
+	text-align: center;
+}
+.pack-name h3 {
+	font-size: 21px;
+}
+.pack-feature span {
+	font-size: 14px;
+}
+.pack-price h2 span {
+	margin-right: 15px;
+	font-size: 35px;
+}
+.pack-price h2 {
+	font-size: 14px;
+}
+.theme-btn2 {
+	font-size: 14px;
+	padding: 15px 3px;
+}
+.pack-feature2 span {
+	font-size: 14px;
+}
+.pack-name2 h3 {
+	font-size: 21px;
+}
+.pack-price3 h2 {
+	font-size: 14px;
+}
+.theme-btn3 {
+	font-size: 14px;
+	padding: 15px 3px;
+}
+.pack-price3 h2 span {
+	margin-right: 15px;
+	font-size: 35px;
+}
+.card-text.text-center {
+text-align: center;
+	font-size: 15px;
+}
+.cta-content h1 {
+	font-size: 32px;
+}
+.theme-btn {
+	font-size: 14px;
+}
+.news-bg h5 {
+	font-size: 19px;
+}
+.author-info h6 {
+	font-size: 16px;
+}
+.news-bg1 h5 {
+	font-size: 19px;
+}
+.author-info1 h6 {
+	font-size: 16px;
+}
+.copy-rights {
+	font-size: 14px;
+	text-align: center;
+}
+.text p {
+	font-size: 14px;
+}
+.text a {
+	font-size: 14px;
+}
+.content-icon h2 {
+	font-size: 40px;
+}
+.toggle {
+	width: 146px;
+}
+.text h1 {
+	font-size: 32px;
+}
+.footer-content {
+	padding: 5px 29px;
+}
+.footer {
+	padding: 11px 0px 15px 0px;
+}
+.letter-box input {
+	height: 45px;
+}
+.news {
+	padding: 22px 0px;
+}
+.Company {
+	padding: 17px 0px;
+}
+}
